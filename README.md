@@ -1,5 +1,7 @@
 # SvelteKit Head Repro
 
+**A solution was found, you can browse other repo now**
+
 Case: I need to have the meta tags from the `<svelte:head>` tags on my pages and layout to be rendered on build time (not on client-side load).
 
 Clone the repo:
